@@ -67,3 +67,7 @@
 [2020-07-10T22:49:43+0300] DFHack 0.47.04-r1-0-g6bdbf5b0 on Windows; cwd md5: 6ff79470f2; save: Dwarf; SC_MAP_LOADED; game type DWARF_MAIN (0)
 [2020-07-10T23:13:52+0300] DFHack 0.47.04-r1-0-g6bdbf5b0 on Windows; cwd md5: 6ff79470f2; save: Dwarf; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
 [2020-07-10T23:13:52+0300] DFHack 0.47.04-r1-0-g6bdbf5b0 on Windows; cwd md5: 6ff79470f2; save: Dwarf; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
+[2020-07-13T13:10:51+0300] DFHack 0.47.04-r1-0-g6bdbf5b0 on Windows; cwd md5: 2105030890; save: fintech; SC_WORLD_LOADED; game type DWARF_MAIN (0)
+[2020-07-13T13:10:52+0300] DFHack 0.47.04-r1-0-g6bdbf5b0 on Windows; cwd md5: 2105030890; save: fintech; SC_MAP_LOADED; game type DWARF_MAIN (0)
+[2020-07-13T13:53:56+0300] DFHack 0.47.04-r1-0-g6bdbf5b0 on Windows; cwd md5: 2105030890; save: fintech; SC_MAP_UNLOADED; game type DWARF_MAIN (0)
+[2020-07-13T13:53:56+0300] DFHack 0.47.04-r1-0-g6bdbf5b0 on Windows; cwd md5: 2105030890; save: fintech; SC_WORLD_UNLOADED; game type DWARF_MAIN (0)
